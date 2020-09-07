@@ -3,7 +3,8 @@ import java.util.Arrays;
 public class Pairs {
 
     public static void main(String[] args) {
-        System.out.println("Exercise 1 output produced by Munira Tabassum");
+        System.out.println("TEST PERFORMED by Munira Tabassum");
+        System.out.println("TEST for Distinctive array element pairs");
         System.out.println();
         int[] arr = {8,7,2,34,3,9,14,4,99,99,1,2,3,4,56,5,6};
         PrintPairs(arr);
